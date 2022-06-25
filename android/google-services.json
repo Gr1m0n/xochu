@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959764575411",
+    "project_id": "xochu-e73fd",
+    "storage_bucket": "xochu-e73fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959764575411:android:03d7b0580a650ac1dcacc6",
+        "android_client_info": {
+          "package_name": "com.xochu.ru.xochuapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959764575411-8k0998p7srojb6vocqg8t4i7ol9msj02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHaWwtjUXKDi5ygTvOgkQCBVn_kZZ57BY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959764575411-8k0998p7srojb6vocqg8t4i7ol9msj02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
